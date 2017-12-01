@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link href="app.css" rel="stylesheet">
+    <link href="why.html" rel="stylesheet">
+    <title>Natalia's Website</title>
+    <meta charset="utf-8">
+    </head>
+    <body>
+        <header>
+            <img id="#" src="https://lh3.google.com/u/0/d/1ySRd6uVv4xlpxmbCHQhaW_YdgZEYp8XL=w1324-h875-iv1"  width="250px">
+            
+
+            <h1>Natalia's Website</h1>
+
+            <ul>
+                <li><a href="index.html">homepage</a></li>
+                <li><a href="future.html">my future</a></li>
+                <li><a href="atm.html">atm</a></li>
+                <li><a href="cheer.html">cheerleading</a></li>
+            </ul>
+        </header>
+                
+        <h2> All About Natalia </h2>
+        
+
+        <h3> Hobbies </h3>
+    <p> I have many hobbies: Soccer, which i have been doing since I was five years old and i play every other season. Tumbling, I have always been a self taught person so I just started flipping and bending on my own but overtime my parents enrolled me in tumbling classes and it has impacted my life greatly, beacause not only has it taught me better techniques but that I have so much more to learn how to do. Finally cheerleading, I have done cheer since 2011 and it has done nothing but boost my self esteem and has made my life so much happier. My plan is to cheer until I physically can not move anymore hahaha… maybe not that but somewhere close.</p>
+    <center>
+        <img src= "images/cheerme.JPG
+" alt="cheer picture" width="250"></center>
+
+        <h3> Interest </h3>
+        <p> On my down time I love watching The Office, Wild'n Out, and Riverdale. My absolute favorite thing of all time is spending time with my dog. When I have nothing better to do I love to watch movies with friends or family. Most people do not know this but, I really love Road Trips! Also, I really love going to the Kern River with my best friend Brendi and our families!!!</p>
+        <center>
+            <img src="images/puppie.PNG" alt="puppie" width="350"></center>
+        <h3> family </h3> 
+    <p> My family includes: My dad Gus who was born in Ensenada, Mexico. My Mom Angie was born in Califonia. My two older siblings Gus and Taylor who are only a year and four days aparat were both born in Long Beach at Long Beach Memorial. Then there is me, I was born in Torrance, Califonia in the UCLA Harbor Emergency. Finally, my youngest sister Alyssa who was also born at Long Beach Memorial. .</p>
+    <center> 
+        <img src="images/familyphoto.JPG" alt="family photo" width="350"></center>
+    </body>
+</html> 
+ 
